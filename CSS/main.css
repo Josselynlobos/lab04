@@ -1,0 +1,15 @@
+html{
+    scroll-behavior: smooth;
+}
+.subtitle{
+    font-weight: bold;
+    color:antiquewhite;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+    font-variant: normal;
+    font-size: 1.25em; /*20px/16=2, Sem, 16px/16= len*/
+}
+.programming-languages i{
+    font-size: 7em;
+}
